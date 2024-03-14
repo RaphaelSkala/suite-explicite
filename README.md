@@ -8,4 +8,6 @@ Permet de calculer un terme spécifique d'une suite explicite ou de calculer plu
 <br><br>
 **HOW TO USE**
 <br>python3 script.py
-<br>Exemple de terme général: 5n*n+12n+3
+<br>Fonctionnement du terme général:
+<br>Pour marquer les carré, on ajoute deux n: par exemple,pour 5n², on met 5nn
+<br>Pour marquer la présence d'un n, on ajoute juste un n: par exemple, pour 5n, on met juste 5n
