@@ -1,6 +1,6 @@
 #Input du terme général de la suite et du mode
 print('Une suite explicite s\'exprime sous la forme Un=f(n)')
-TermeGeneral = input('Veuillez entrer le terme général de la suite: ')
+TermeGeneral = input('Veuillez entrer le terme général de la suite: f(n)=')
 print('Mode 1: Calcul d`un terme specifique de la suite')
 print('Mode 2: Calcul des n premiers réels de la suite la suite')
 ModeNumber = float(input('Veuillez entrer le mode choisi: '))
